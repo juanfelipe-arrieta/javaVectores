@@ -28,7 +28,7 @@ public class NewJFrame extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
-
+        ffkfmnjfnljfhbkjljhbgh
         VendedorAño = new javax.swing.JButton();
         Ventas = new javax.swing.JButton();
         VentaVendedor = new javax.swing.JButton();
